@@ -1,0 +1,12 @@
+.capa {
+	height: 100%;
+	overflow: auto;
+    background: rgba(0, 0, 0, 0.6);
+}
+
+.texto-capa {
+	text-align: center;
+	color: black;
+	display: table-cell;
+	vertical-align: middle;
+}
